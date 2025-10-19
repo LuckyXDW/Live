@@ -4,8 +4,7 @@
 // @version      2023-12-11
 // @description  try to take over the world!
 // @author       You
-// @match        *://files.honghufly.com/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @match        *://zh-cn.hsxinming.com/*
 // @grant        none
 // ==/UserScript==
 
